@@ -3,7 +3,7 @@ import requests
 import subprocess
 from aiogram import Bot, Dispatcher, executor, types
 
-# Конфигурация
+# Конфигурация test
 TELEGRAM_TOKEN = "ВАШ_ТОКЕН_ТЕЛЕГРАМ_БОТА"
 THREE_X_UI_URL = "http://ВАШ_СЕРВЕР:PORT/api"  # Замените на URL вашей панели
 API_KEY = "ВАШ_API_КЛЮЧ_3X_UI"
